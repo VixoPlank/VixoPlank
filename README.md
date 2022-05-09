@@ -6,7 +6,7 @@ Soy Analista Programador
 
 Actualmente, llevo 4 años en el mundo de la programación
 
-* 🌍  I'm based in Chillán, Chile
+* 🌍  Soy de Chillán, Chile
 * 🖥️  See my portfolio at [Mi Portafolio](http://vixoplank.github.io/Portafolio/)
 * ✉️  You can contact me at [vichevasquez@gmail.com](mailto:vichevasquez@gmail.com)
 
