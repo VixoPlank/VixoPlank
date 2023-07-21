@@ -1,7 +1,7 @@
 Hola 👋 Soy Vicente Vásquez
 ================================
 
-Desarrolador Web
+Desarrollador Web
 ----------------
 Actualmente llevo 5 años en el mundo de la programación
 * 🌍  Chillán, Chile
