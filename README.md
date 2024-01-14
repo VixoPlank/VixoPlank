@@ -15,8 +15,8 @@
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: En Constante aprendizaje
+- :student: Actualmente estoy aprendiendo `Desarrollo web`.
+- :nerd_face: En constante aprendizaje
 - :thinking: Actualmente estoy abierto para una nueva ` oportunidad de trabajo`, este es [Mi Curruculum](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
