@@ -54,7 +54,7 @@
 <h1>Certifications! 🏆</h1>
 <Br>
   
-[![AWS Certified Badge](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge)](https://www.credly.com/earner/earned/badge/fdba42f4-2f73-4bc0-b67f-8dccfeae0975)
+[![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge)](https://www.credly.com/earner/earned/badge/fdba42f4-2f73-4bc0-b67f-8dccfeae0975)
 
 
 ## <b> Conectemos..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
