@@ -43,5 +43,20 @@
 </p>
 
 <p align = "center">
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+# Hola, soy [Tu Nombre]
+
+🚀 Desarrollador de Software | 🌐 Explorando el mundo de la programación
+
+---
+
+> "El código es como el humor. Cuando tienes que explicarlo, no es tan bueno."
+> — Cory House
+
+> "La creatividad es la inteligencia divirtiéndose."
+> — Albert Einstein
+
+---
+
+**¡Gracias por visitar mi perfil! 😊**
+
 </p>
