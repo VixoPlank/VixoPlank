@@ -43,37 +43,10 @@
 </p>
 
 <p align = "center">
-# Hola, soy [Tu Nombre]
-
-🚀 Desarrollador de Software | 🌐 Explorando el mundo de la programación
-
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="24" height="24" alt="GitHub" />
-    </td>
-    <td>
-      "El código es como el humor. Cuando tienes que explicarlo, no es tan bueno."
-      <br>
-      — Cory House
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="URL_DE_OTRO_ICONO" width="24" height="24" alt="Otra Plataforma" />
-    </td>
-    <td>
-      "La creatividad es la inteligencia divirtiéndose."
-      <br>
-      — Albert Einstein
-    </td>
-  </tr>
-</table>
+> "Tomas prestado de los grandes y haces tu propio camino sin perder la esencia de quién eres."
+> — Michael B. Jordan
 
 ---
-
-**¡Gracias por visitar mi perfil! 😊**
-
 </p>
