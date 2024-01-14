@@ -38,6 +38,6 @@
 <p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/VixoPlank/VixoPlank/assets/103214246/df2df886-b6a2-472b-ac2d-1aaf1f1f901d" width="36" height="36" alt="GitHub"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/VixoPlank/VixoPlank/assets/103214246/7d0976be-7301-4fa2-9e09-e1710e341a43" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://code.visualstudio.com/" target="_blank rel="noreferrer"> <img src="https://github.com/VixoPlank/VixoPlank/assets/103214246/688356bf-c5da-455f-ae8d-cbd06d5ac9d3" width="36" height="36" alt="GitHub" /></a>
 </p>
