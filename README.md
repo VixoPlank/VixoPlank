@@ -13,7 +13,7 @@
 
 - :school: Estudiante `Junior` de [Ingeniería en Informática](https://portales.inacap.cl/carreras/Area-Tecnologias-Informacion-y-Ciberseguridad/Ingenieria-en-Informatica/index) de [INACAP](https://portales.inacap.cl/).
 - :trophy: 2x `ACPC` Finalist.
-- :technologist: Especializado en crear aplicaciones `únicas` y `buenas prácticas`.
+- :technologist: Especializado en crear aplicaciones `únicas` y aplicando `buenas prácticas`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: Actualmente estoy aprendiendo `Desarrollo web`.
 - :nerd_face: En constante aprendizaje.
