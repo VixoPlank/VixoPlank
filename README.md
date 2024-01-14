@@ -41,3 +41,7 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/VixoPlank/VixoPlank/assets/103214246/a861632a-cea1-49a2-b6d9-f562f92afe01" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://code.visualstudio.com/" target="_blank rel="noreferrer"> <img src="https://github.com/VixoPlank/VixoPlank/assets/103214246/688356bf-c5da-455f-ae8d-cbd06d5ac9d3" width="36" height="36" alt="GitHub" /></a>
 </p>
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
