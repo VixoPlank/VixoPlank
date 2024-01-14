@@ -43,12 +43,10 @@
 </p>
 
 <p align = "center">
----
 
 > "Tomas prestado de los grandes y haces tu propio camino sin perder la esencia de quién eres."
 > — Michael B. Jordan
 
----
 </p>
 
 <h1>Certificaciones! 🏆</h1>
