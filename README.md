@@ -54,7 +54,8 @@
 <h1>Certifications! 🏆</h1>
 <Br>
   
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fdba42f4-2f73-4bc0-b67f-8dccfeae0975" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AWS Certified Badge](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge)](https://www.credly.com/earner/earned/badge/fdba42f4-2f73-4bc0-b67f-8dccfeae0975)
+
 
 ## <b> Conectemos..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
