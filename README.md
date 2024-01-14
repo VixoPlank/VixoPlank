@@ -49,11 +49,28 @@
 
 ---
 
-> "El código es como el humor. Cuando tienes que explicarlo, no es tan bueno."
-> — Cory House
-
-> "La creatividad es la inteligencia divirtiéndose."
-> — Albert Einstein
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="24" height="24" alt="GitHub" />
+    </td>
+    <td>
+      "El código es como el humor. Cuando tienes que explicarlo, no es tan bueno."
+      <br>
+      — Cory House
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="URL_DE_OTRO_ICONO" width="24" height="24" alt="Otra Plataforma" />
+    </td>
+    <td>
+      "La creatividad es la inteligencia divirtiéndose."
+      <br>
+      — Albert Einstein
+    </td>
+  </tr>
+</table>
 
 ---
 
