@@ -18,7 +18,7 @@
 - :technologist: Especializado en crear aplicaciones `únicas` y aplicando `buenas prácticas`.
 - :student: Actualmente estoy aprendiendo `Desarrollo web`.
 - :nerd_face: En constante aprendizaje.
-- :briefcase: Puedes ver mi [Portfolio](https://portfolio-vixoplank.vercel.app/).
+- :briefcase: Puedes ver mi [Portfolio](https://portfolio-vixoplank.vercel.app/)().
 - :thinking: Actualmente estoy abierto para una nueva `oportunidad de trabajo`, este es [Mi Curruculum](http://lnkiy.in/Ahmed_Hossam_Resume).
 <!--
 - :trophy: 2x `ACPC` Finalist.
@@ -59,5 +59,5 @@
 
 ## <b> Conectemos..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<a href="https://www.linkedin.com/in/vicente-vásquez-gatica" target="blank"><img align="center" src="https://img.shields.io/badge/Vicente Vásquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/vicente-vásquez-gatica" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Vicente Vásquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
