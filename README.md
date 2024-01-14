@@ -51,7 +51,7 @@
 ---
 </p>
 
-<h1>Certifications! 🏆</h1>
+<h1>Certificaciones! 🏆</h1>
 <Br>
   
 [![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge)](https://www.credly.com/earner/earned/badge/fdba42f4-2f73-4bc0-b67f-8dccfeae0975)
@@ -59,5 +59,5 @@
 
 ## <b> Conectemos..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-[![Vicente Vásquez](https://img.shields.io/badge/Tu%20Nombre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-v%C3%A1squez-gatica/)
+<a href="https://www.linkedin.com/in/vicente-vásquez-gatica" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
