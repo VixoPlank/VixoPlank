@@ -13,6 +13,7 @@
 
 <br><br>
 
+- :desktop_computer: Desarrollador Web y Programador Autodidacta.
 - :school: Estudiante `Junior` de [Ingeniería en Informática](https://portales.inacap.cl/carreras/Area-Tecnologias-Informacion-y-Ciberseguridad/Ingenieria-en-Informatica/index) de [INACAP](https://portales.inacap.cl/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: Especializado en crear aplicaciones `únicas` y aplicando `buenas prácticas`.
