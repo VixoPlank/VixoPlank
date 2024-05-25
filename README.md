@@ -19,7 +19,7 @@
 - :student: Actualmente estoy aprendiendo `Desarrollo web`.
 - :nerd_face: En constante aprendizaje.
 - :briefcase: Puedes ver mi [Portfolio](https://portfolio-vixoplank.vercel.app/).
-- :thinking: Actualmente estoy abierto para una nueva `oportunidad de trabajo`, este es [Mi Curruculum](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: Actualmente estoy abierto para una nueva `oportunidad de trabajo`, este es [Mi Curruculum](https://drive.google.com/file/d/11FiM-oJhwdEgvsmP7WBsgGzwy27vD8ZH/view?usp=sharing).
 <!--
 - :trophy: 2x `ACPC` Finalist.
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
