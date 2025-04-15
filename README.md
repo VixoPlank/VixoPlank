@@ -14,7 +14,7 @@
 <br><br>
 
 - :desktop_computer: Desarrollador Web y Programador Autodidacta.
-- :school: Estudiante `Junior` de [Ingeniería en Informática](https://portales.inacap.cl/carreras/Area-Tecnologias-Informacion-y-Ciberseguridad/Ingenieria-en-Informatica/index) de [INACAP](https://portales.inacap.cl/).
+- :school: Ingeniero en Informática de [INACAP](https://portales.inacap.cl/).
 - :technologist: Especializado en crear aplicaciones `únicas` y aplicando `buenas prácticas`.
 - :student: Actualmente estoy aprendiendo `Desarrollo web`.
 - :nerd_face: En constante aprendizaje.
